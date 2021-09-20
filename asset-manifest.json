@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/nehxpressions/static/css/main.a617e044.chunk.css",
-    "main.js": "/nehxpressions/static/js/main.9f8cc83f.chunk.js",
-    "main.js.map": "/nehxpressions/static/js/main.9f8cc83f.chunk.js.map",
+    "main.js": "/nehxpressions/static/js/main.5ca80526.chunk.js",
+    "main.js.map": "/nehxpressions/static/js/main.5ca80526.chunk.js.map",
     "runtime-main.js": "/nehxpressions/static/js/runtime-main.0c690cfc.js",
     "runtime-main.js.map": "/nehxpressions/static/js/runtime-main.0c690cfc.js.map",
-    "static/js/2.24f6be58.chunk.js": "/nehxpressions/static/js/2.24f6be58.chunk.js",
-    "static/js/2.24f6be58.chunk.js.map": "/nehxpressions/static/js/2.24f6be58.chunk.js.map",
+    "static/js/2.62d97539.chunk.js": "/nehxpressions/static/js/2.62d97539.chunk.js",
+    "static/js/2.62d97539.chunk.js.map": "/nehxpressions/static/js/2.62d97539.chunk.js.map",
     "static/js/3.4cf015fb.chunk.js": "/nehxpressions/static/js/3.4cf015fb.chunk.js",
     "static/js/3.4cf015fb.chunk.js.map": "/nehxpressions/static/js/3.4cf015fb.chunk.js.map",
     "index.html": "/nehxpressions/index.html",
     "static/css/main.a617e044.chunk.css.map": "/nehxpressions/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.24f6be58.chunk.js.LICENSE.txt": "/nehxpressions/static/js/2.24f6be58.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/nehxpressions/static/media/logo.6ce24c58.svg"
+    "static/js/2.62d97539.chunk.js.LICENSE.txt": "/nehxpressions/static/js/2.62d97539.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0c690cfc.js",
-    "static/js/2.24f6be58.chunk.js",
+    "static/js/2.62d97539.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.9f8cc83f.chunk.js"
+    "static/js/main.5ca80526.chunk.js"
   ]
 }
