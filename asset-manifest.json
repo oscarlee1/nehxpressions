@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nehxpressions/static/css/main.7c571b35.chunk.css",
+    "main.css": "/nehxpressions/static/css/main.d29d4f87.chunk.css",
     "main.js": "/nehxpressions/static/js/main.a1694a5b.chunk.js",
     "main.js.map": "/nehxpressions/static/js/main.a1694a5b.chunk.js.map",
     "runtime-main.js": "/nehxpressions/static/js/runtime-main.372ff91d.js",
@@ -10,13 +10,13 @@
     "static/js/3.0d8259dd.chunk.js": "/nehxpressions/static/js/3.0d8259dd.chunk.js",
     "static/js/3.0d8259dd.chunk.js.map": "/nehxpressions/static/js/3.0d8259dd.chunk.js.map",
     "index.html": "/nehxpressions/index.html",
-    "static/css/main.7c571b35.chunk.css.map": "/nehxpressions/static/css/main.7c571b35.chunk.css.map",
+    "static/css/main.d29d4f87.chunk.css.map": "/nehxpressions/static/css/main.d29d4f87.chunk.css.map",
     "static/js/2.28148e6e.chunk.js.LICENSE.txt": "/nehxpressions/static/js/2.28148e6e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.372ff91d.js",
     "static/js/2.28148e6e.chunk.js",
-    "static/css/main.7c571b35.chunk.css",
+    "static/css/main.d29d4f87.chunk.css",
     "static/js/main.a1694a5b.chunk.js"
   ]
 }
