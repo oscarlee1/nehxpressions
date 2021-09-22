@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/nehxpressions/static/css/main.59cd88e8.chunk.css",
-    "main.js": "/nehxpressions/static/js/main.9ee5094f.chunk.js",
-    "main.js.map": "/nehxpressions/static/js/main.9ee5094f.chunk.js.map",
+    "main.js": "/nehxpressions/static/js/main.b0ccf7d6.chunk.js",
+    "main.js.map": "/nehxpressions/static/js/main.b0ccf7d6.chunk.js.map",
     "runtime-main.js": "/nehxpressions/static/js/runtime-main.d055fc5c.js",
     "runtime-main.js.map": "/nehxpressions/static/js/runtime-main.d055fc5c.js.map",
-    "static/js/2.5f6051f3.chunk.js": "/nehxpressions/static/js/2.5f6051f3.chunk.js",
-    "static/js/2.5f6051f3.chunk.js.map": "/nehxpressions/static/js/2.5f6051f3.chunk.js.map",
+    "static/js/2.7b479a1a.chunk.js": "/nehxpressions/static/js/2.7b479a1a.chunk.js",
+    "static/js/2.7b479a1a.chunk.js.map": "/nehxpressions/static/js/2.7b479a1a.chunk.js.map",
     "static/js/3.6b6eb931.chunk.js": "/nehxpressions/static/js/3.6b6eb931.chunk.js",
     "static/js/3.6b6eb931.chunk.js.map": "/nehxpressions/static/js/3.6b6eb931.chunk.js.map",
     "index.html": "/nehxpressions/index.html",
     "static/css/main.59cd88e8.chunk.css.map": "/nehxpressions/static/css/main.59cd88e8.chunk.css.map",
-    "static/js/2.5f6051f3.chunk.js.LICENSE.txt": "/nehxpressions/static/js/2.5f6051f3.chunk.js.LICENSE.txt"
+    "static/js/2.7b479a1a.chunk.js.LICENSE.txt": "/nehxpressions/static/js/2.7b479a1a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d055fc5c.js",
-    "static/js/2.5f6051f3.chunk.js",
+    "static/js/2.7b479a1a.chunk.js",
     "static/css/main.59cd88e8.chunk.css",
-    "static/js/main.9ee5094f.chunk.js"
+    "static/js/main.b0ccf7d6.chunk.js"
   ]
 }
